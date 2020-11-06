@@ -1,0 +1,5 @@
+#Fichier gitignore projet pascal
+purge.o
+purge.exe
+*.o
+*.exe
